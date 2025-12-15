@@ -1,32 +1,35 @@
 <div align="center">
 
-# 👋 Hi, I'm Witchakorn Boonprakom
+<h1 style="font-size: 2.5em; margin-bottom: 0.5em;">👋 Hi, I'm Witchakorn Boonprakom</h1>
 
-### 💻 Software Engineer | 🤖 AI & Machine Learning Enthusiast
+<h3 style="font-size: 1.5em; color: #0078D4; margin-top: 0;">Software Engineer | AI & Machine Learning Enthusiast</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;🏆+1st+Place+AI+Datathon+2023;🏅+ICPC+Participant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;1st+Place+AI+Datathon+2023;ICPC+Participant" alt="Typing SVG" />
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/witchakornb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/witchakorn-boonprakom/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.witchakorn.in.th/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:witchakorn.bo+careers@gmail.com)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 💻 **Software Engineer**
-- 📍 Based in **Khon Kaen, Thailand**
-- 🤖 Passionate about **AI**, **Machine Learning**, and **Full-Stack Development**
-- 🏆 **1st Place AI Datathon 2023**
-- 🏅 **ICPC Participant**
-- 📧 **Email:** witchakorn.bo+careers@gmail.com
-- 🚀 Always eager to learn and grow as a developer
+- **Software Engineer**
+- Based in **Khon Kaen, Thailand**  
+- Passionate about **AI**, **Machine Learning**, and **Full-Stack Development**
+- **1st Place AI Datathon 2023**
+- **ICPC Participant**
+- **Email:** [witchakorn.bo+careers@gmail.com](mailto:witchakorn.bo+careers@gmail.com)
+- Always eager to learn and grow as a developer
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,21 +62,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=witchakornb&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=witchakornb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witchakornb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=witchakornb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witchakornb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=witchakornb&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -83,16 +89,16 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <div align="center">
 
 | Platform | Link |
 |----------|------|
-| 🌐 Website | [witchakorn.in.th](https://www.witchakorn.in.th/) |
-| 💼 LinkedIn | [Witchakorn Boonprakom](https://www.linkedin.com/in/witchakorn-boonprakom/) |
-| 🐙 GitHub | [witchakornb](https://github.com/witchakornb) |
-| 📧 Email | [witchakorn.bo+careers@gmail.com](mailto:witchakorn.bo+careers@gmail.com) |
+| Website | [witchakorn.in.th](https://www.witchakorn.in.th/) |
+| LinkedIn | [Witchakorn Boonprakom](https://www.linkedin.com/in/witchakorn-boonprakom/) |
+| GitHub | [witchakornb](https://github.com/witchakornb) |
+| Email | [witchakorn.bo+careers@gmail.com](mailto:witchakorn.bo+careers@gmail.com) |
 
 </div>
 
@@ -100,10 +106,10 @@
 
 <div align="center">
 
-### 💬 Feel free to reach out for collaborations or just a friendly chat!
+### Feel free to reach out for collaborations or just a friendly chat!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=witchakornb&color=blueviolet&style=for-the-badge)
 
-⭐️ From [witchakornb](https://github.com/witchakornb)
+⭐ From [witchakornb](https://github.com/witchakornb)
 
 </div>
