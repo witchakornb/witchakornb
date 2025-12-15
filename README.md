@@ -66,29 +66,16 @@
 
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=witchakornb&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=witchakornb&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-</picture>
+<a href="https://github.com/witchakornb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=witchakornb&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=witchakornb&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
 
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=witchakornb&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=witchakornb&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-</picture>
+<br/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=witchakornb&layout=compact&theme=transparent&hide_border=true&langs_count=8"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witchakornb&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
-</picture>
+<a href="https://github.com/witchakornb">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=witchakornb&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+</a>
 
 </div>
 
