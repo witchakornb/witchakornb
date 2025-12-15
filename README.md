@@ -66,14 +66,29 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=witchakornb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witchakornb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
-  </tr>
-</table>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=witchakornb&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=witchakornb&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=witchakornb&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=witchakornb&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=witchakornb&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=witchakornb&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=witchakornb&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
 
 </div>
 
