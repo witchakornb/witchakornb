@@ -27,8 +27,8 @@
 - **ICPC Participant**
 - **Email:** [witchakorn.bo+careers@gmail.com](mailto:witchakorn.bo+careers@gmail.com)
 - Always eager to learn and grow as a developer
-- My Website : [Website](witchakorn.in.th)
-- My Portfolio Website : [Portfolio](portfolio.witchakorn.in.th)
+- My Website : [Website](https://witchakorn.in.th)
+- My Portfolio Website : [Portfolio](https://portfolio.witchakorn.in.th)
 
 ---
 
