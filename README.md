@@ -2,12 +2,6 @@
 
 <h1 style="font-size: 2.5em; margin-bottom: 0.5em;">👋 Hi, I'm Witchakorn Boonprakom</h1>
 
-<h3 style="font-size: 1.5em; color: #0078D4; margin-top: 0;">Software Engineer | AI & Machine Learning Enthusiast</h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;1st+Place+AI+Datathon+2023;ICPC+Participant" alt="Typing SVG" />
-
-<br/>
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/witchakornb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/witchakorn-boonprakom/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.witchakorn.in.th/)
@@ -22,75 +16,9 @@
 
 - **Software Engineer**
 - Based in **Khon Kaen, Thailand**  
-- Passionate about **AI**, **Machine Learning**, and **Full-Stack Development**
-- **1st Place AI Datathon 2023**
-- **ICPC Participant**
 - **Email:** [witchakorn.bo+careers@gmail.com](mailto:witchakorn.bo+careers@gmail.com)
-- Always eager to learn and grow as a developer
 - My Website : [Website](https://witchakorn.in.th)
 - My Portfolio Website : [Portfolio](https://portfolio.witchakorn.in.th)
-
----
-
-## Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/witchakornb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=witchakornb&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=witchakornb&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/witchakornb">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=witchakornb&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=witchakornb&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
